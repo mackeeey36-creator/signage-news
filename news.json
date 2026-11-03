@@ -1,0 +1,65 @@
+[
+  {
+    "見出し": "MOSS-Imageが急伸、初4日で約130万DL",
+    "要約": "初4日で約130万ダウンロード、GitHub約1400スター、HFのtext-to-imageトレンド首位。複数リポジトリ合計で独立監査はないと注記。",
+    "出典名": "tech360tv",
+    "元記事URL": "https://www.tech360.tv/moss-image-passes-1-million-downloads-in-four-days-and-tops-hugging-face-text-to-image-trends",
+    "記事公開日時": null
+  },
+  {
+    "見出し": "Qwen 4はまだ未公開、学習中のみ発表",
+    "要約": "9月22日に学習中と発表されたのみで、重み・ライセンス・HFリポジトリはない。最新Qwen LLMは8月24日のQwen3.8-Flash-Nextのまま。",
+    "出典名": "LLMCheck",
+    "元記事URL": "https://llmcheck.net/blog/qwen-4-release-whats-new-mac/",
+    "記事公開日時": null
+  },
+  {
+    "見出し": "Qwen派生、10月のHF新規モデルで51％",
+    "要約": "10月のHF新規派生で中国系ベース57.8％、Qwen単独51.0％、Llamaは31.7％から11.2％へ。直近90日のQwen公開アカウントは5854件。",
+    "出典名": "Tensorust",
+    "元記事URL": "https://tensorust.com/articles/qwen-chinese-base-models-hugging-face/",
+    "記事公開日時": null
+  },
+  {
+    "見出し": "MiniMax M3.1 Flash、重みがHFで公開",
+    "要約": "428B・23BアクティブのMoEモデルが10月23日にHFで公開。1Mトークン対応で、商用は表示と通知が条件となる。",
+    "出典名": "pasqualepillitteri.it",
+    "元記事URL": "https://pasqualepillitteri.it/en/news/26561/minimax-m3-1-flash-weights-hugging-face-license",
+    "記事公開日時": null
+  },
+  {
+    "見出し": "Open-H3-Regenerate-2K、H3の2K化を公開",
+    "要約": "NVlabsがH3の再生成段階をオープン化。低解像度の下書きを3ステップで768Pから4Kへ再描画するリファイナーLoRA。",
+    "出典名": "NVlabs",
+    "元記事URL": "https://nvlabs.github.io/Sana/Open-H3-Regenerate-2K/",
+    "記事公開日時": null
+  },
+  {
+    "見出し": "Pika H3 Flex、H3を6ステップ化して公開",
+    "要約": "Pikaが10月29日に公開したH3派生。2つのLoRAで5〜15秒の動画と音声を6ステップで生成し、重みは公開された。",
+    "出典名": "thehype.news",
+    "元記事URL": "https://thehype.news/pika-h3-flex/",
+    "記事公開日時": "2026-11-03T12:44:21+09:00"
+  },
+  {
+    "見出し": "LongCat-2.5が公開、1.6Tで長期タスク向け",
+    "要約": "美团が11月2日に公開した多モーダルモデル。総1.6T・48Bアクティブで長期のエージェント作業向け。API提供中で重みは今後予定。",
+    "出典名": "TechNode",
+    "元記事URL": "https://technode.com/2026/11/02/meituan-launches-longcat-2-5-multimodal-ai-model-for-extended-coding-tasks/",
+    "記事公開日時": "2026-11-02T13:32:41+09:00"
+  },
+  {
+    "見出し": "Qwen4は来週公開か、4モデル体制と報道",
+    "要約": "10月29日のApsaraアムステルダムでCTOが来週と発言したと報道。Max・Flash・Plus・27Bの4体制だが公式の日程確認はない。",
+    "出典名": "emergent.sh",
+    "元記事URL": "https://emergent.sh/news/alibaba-teases-qwen4-lineup-apsara-due-next",
+    "記事公開日時": "2026-11-03T12:44:21+09:00"
+  },
+  {
+    "見出し": "Hydrogen-1.0が公開、753Bの科学特化型",
+    "要約": "Deep Principleが11月2日に公開した科学研究向けモデル。GLM-5.3ベースで753B、BF16重みはMITライセンスで提供される。",
+    "出典名": "AI Brief",
+    "元記事URL": "https://dailyaibrief.com/news/deep-principle-releases-hydrogen-1-0-scientific-model-weights-q9VnwMjj",
+    "記事公開日時": "2026-11-03T05:35:00+09:00"
+  }
+]
