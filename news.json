@@ -61,5 +61,19 @@
     "出典名": "AI Brief",
     "元記事URL": "https://dailyaibrief.com/news/deep-principle-releases-hydrogen-1-0-scientific-model-weights-q9VnwMjj",
     "記事公開日時": "2026-11-03T05:35:00+09:00"
+  },
+  {
+    "見出し": "Mistral Large 4、重みをHFで公開",
+    "要約": "1T・52BアクティブのMoE旗艦モデル。3週間の追加RL後に重み公開、推論3モード搭載でコーディングとサイバー向け。",
+    "出典名": "IT Brief",
+    "元記事URL": "https://itbrief.com.au/story/mistral-releases-open-weight-ml4-for-coding-cyber",
+    "記事公開日時": "2026-11-03T11:30:30+09:00"
+  },
+  {
+    "見出し": "VAETKI Vision 3B、ロボット向け軽量VLM",
+    "要約": "NC AIが11月3日に公開した3Bの超軽量VLM。ロボット・現場機器向けで、4B・8B級の公開モデルを上回ると主張し溶接特化版も用意。",
+    "出典名": "CHOSUNBIZ",
+    "元記事URL": "https://biz.chosun.com/en/en-it/2026/11/03/DU5SYYVRVVGTDHZTX4PJIPR6SQ/",
+    "記事公開日時": "2026-11-03T11:16:31+09:00"
   }
 ]
